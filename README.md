@@ -1,1 +1,1 @@
-# new-clock
+# A Digital clock
